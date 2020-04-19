@@ -1,6 +1,6 @@
-# Chat with Server sent events
+# Charts with Server sent events
 
-Using quarkus + vertx, run with 
+Using quarkus + vertx + charts.js, run with 
  
 * ./mvnw compile quarkus:dev
 
@@ -10,5 +10,4 @@ and navigate to
 
 ### TODO
 
-* test with a load balancer
 * cluster quarkus+vertx
